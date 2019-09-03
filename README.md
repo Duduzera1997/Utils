@@ -1,4 +1,4 @@
-# Utilidades para Desenvolvimento React Native.
+# Utilidades para Desenvolvimento Mobile
 
 **Executar Emulador sem necessidade de abrir o Android Studio:**
 
