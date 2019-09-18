@@ -22,3 +22,18 @@
 |$USERNAME$|$DEVICE_NAME$|
 |----------|-------------|
 |Nome do usuário do Linux|Nome do Dispositivo, Ex: Nexus_5_API_25|
+
+
+### Comandos
+
+****Executar evento de Balançar o aparelho quando conectado via USB (" Open Developer Menu"):****
+
+```shell
+adb shell input keyevent 82 
+```
+
+****Verificar Logs da camada nativa no RN e no JS:****
+
+```shell
+adb logcat *:E ReactNative:E ReactNativeJS:E
+```
