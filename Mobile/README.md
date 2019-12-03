@@ -23,15 +23,15 @@
 |----------|-------------|
 |Nome do usuário do Linux|Nome do Dispositivo, Ex: Nexus_5_API_25|
 
-***MacOS:***
+***Mac OS:***
 
 ```shell
-/Library/Android/sdk/emulator/emulator -no-snapshot -avd $DEVICE_NAME$
+/Users/$USERNAME$/Library/Android/sdk/emulator/emulator -no-snapshot -avd $DEVICE_NAME$
 ```
 
-$DEVICE_NAME$|
--------------|
-|Nome do Dispositivo, Ex: Nexus_5_API_25|
+|$USERNAME$|$DEVICE_NAME$|
+|----------|-------------|
+|Nome do usuário do Mac OS|Nome do Dispositivo, Ex: Nexus_5_API_25|
 
 
 ### Comandos
